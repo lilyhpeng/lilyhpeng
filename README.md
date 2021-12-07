@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: Audio Streaming
+- 🌱 I’m currently living in Beijing
+- 💬 Ask me about peng_h30@163.com
+- ⚡ My blog: https://lilyhpeng.github.io/
 <!--
 **lilyhpeng/lilyhpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
